@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="1151.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-601.000000 -1016.000000 1151.000000 2026.000000" height="2026.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="edges">
+        <path fill="none" stroke-width="10.0"
+              d="M 86.159393,-101.534279 C 172.369461,-119.482727 328.607208,-17.090298 346.555664,69.119766"
+              class="id_165500080198037 id_371282836815"
+              stroke-opacity="0.69803923" stroke="#99844c"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 16.272114,14.019372 C 93.348892,-41.017250 291.519043,-7.957016 346.555664,69.119766"
+              class="id_108147365877214 id_371282836815"
+              stroke-opacity="0.69803923" stroke="#99844c"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -176.559875,186.990036 C -95.510818,58.792877 218.358505,-11.929291 346.555664,69.119766"
+              class="id_163566147024734 id_371282836815"
+              stroke-opacity="0.69803923" stroke="#99844c"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 24.336292,963.535828 C -90.103058,720.208740 103.228561,183.559113 346.555664,69.119766"
+              class="id_164188247072662 id_371282836815"
+              stroke-opacity="0.69803923" stroke="#c3be2e"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -106.890266,38.302628 C -1.654362,-114.379074 385.222046,-185.547745 537.903748,-80.311844"
+              class="id_42940254353 id_97261063097" stroke-opacity="0.69803923"
+              stroke="#496578"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -18.325920,-401.077057 C 113.976974,-431.438477 357.973389,-278.526215 388.334808,-146.223328"
+              class="id_128850220504786 id_111139578897266"
+              stroke-opacity="0.69803923" stroke="#675967"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 252.215729,-47.612392 C 143.480606,-192.896606 198.304276,-573.925537 343.588470,-682.660645"
+              class="id_18983389920 id_8047221596" stroke-opacity="0.69803923"
+              stroke="#8f4fd1"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 252.215729,-47.612392 C 197.577530,41.391808 -17.886065,92.940819 -106.890266,38.302628"
+              class="id_18983389920 id_42940254353" stroke-opacity="0.69803923"
+              stroke="#8f52d1"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -67.649834,-840.416687 C -84.229279,-660.379639 -379.153961,-415.193298 -559.190979,-431.772736"
+              class="id_44015482829 id_68793499001" stroke-opacity="0.69803923"
+              stroke="#8f4fd1"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -559.190979,-431.772736 C -542.611572,-611.809753 -247.686859,-856.996094 -67.649834,-840.416687"
+              class="id_68793499001 id_44015482829" stroke-opacity="0.69803923"
+              stroke="#8f4fd1"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -281.874451,-142.004745 C -378.711914,-324.532043 -250.177155,-743.579224 -67.649834,-840.416687"
+              class="id_111416188942880 id_44015482829"
+              stroke-opacity="0.69803923" stroke="#ae48c0"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -442.419189,-610.700195 C -413.408630,-731.597351 -188.546997,-869.427246 -67.649834,-840.416687"
+              class="id_157965634225679 id_44015482829"
+              stroke-opacity="0.69803923" stroke="#ae48c0"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -559.190979,-431.772736 C -428.812683,-662.506226 112.855011,-813.038940 343.588470,-682.660645"
+              class="id_68793499001 id_8047221596" stroke-opacity="0.69803923"
+              stroke="#8f4dd1"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 42.927998,528.836670 C -69.338913,504.364929 -201.031616,299.256958 -176.559875,186.990036"
+              class="id_925471367491763 id_163566147024734"
+              stroke-opacity="0.69803923" stroke="#a28653"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 42.927998,528.836670 C -6.911575,429.974823 66.621872,206.922623 165.483749,157.083054"
+              class="id_925471367491763 id_335237883171442"
+              stroke-opacity="0.69803923" stroke="#a28653"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 42.927998,528.836670 C -156.200790,459.628906 -351.082245,57.124039 -281.874451,-142.004745"
+              class="id_925471367491763 id_111416188942880"
+              stroke-opacity="0.69803923" stroke="#cc7e72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 86.159393,-101.534279 C 203.587311,33.186195 177.648468,411.408752 42.927998,528.836670"
+              class="id_165500080198037 id_925471367491763"
+              stroke-opacity="0.69803923" stroke="#a28653"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -281.874451,-142.004745 C -82.745667,-72.796951 112.135788,329.707886 42.927998,528.836670"
+              class="id_111416188942880 id_925471367491763"
+              stroke-opacity="0.69803923" stroke="#cc7e72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -126.244644,783.313171 C -255.572327,674.111572 -285.761444,316.317719 -176.559875,186.990036"
+              class="id_128416167198648 id_163566147024734"
+              stroke-opacity="0.69803923" stroke="#a28653"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -126.244644,783.313171 C -219.284973,707.436523 -245.030533,454.061096 -169.153900,361.020752"
+              class="id_128416167198648 id_488356901209621"
+              stroke-opacity="0.69803923" stroke="#ccc035"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -176.559875,186.990036 C -47.232201,296.191620 -17.043068,653.985474 -126.244644,783.313171"
+              class="id_163566147024734 id_128416167198648"
+              stroke-opacity="0.69803923" stroke="#a28653"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 24.336292,963.535828 C -41.824429,957.607483 -132.172989,849.473938 -126.244644,783.313171"
+              class="id_164188247072662 id_128416167198648"
+              stroke-opacity="0.69803923" stroke="#ccc035"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 24.336292,963.535828 C -94.567917,970.142822 -282.834717,801.697083 -289.441742,682.792847"
+              class="id_164188247072662 id_184749301592842"
+              stroke-opacity="0.69803923" stroke="#ccc035"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 24.336292,963.535828 C -176.313110,738.157166 -139.219254,99.115128 86.159393,-101.534279"
+              class="id_164188247072662 id_165500080198037"
+              stroke-opacity="0.69803923" stroke="#a28653"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 24.336292,963.535828 C -108.724770,774.015747 -24.036301,290.144104 165.483749,157.083054"
+              class="id_164188247072662 id_335237883171442"
+              stroke-opacity="0.69803923" stroke="#a28653"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 24.336292,963.535828 C -171.152100,848.405945 -291.689819,382.478424 -176.559875,186.990036"
+              class="id_164188247072662 id_163566147024734"
+              stroke-opacity="0.69803923" stroke="#a28653"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -176.559875,186.990036 C 18.928513,302.119965 139.466217,768.047424 24.336292,963.535828"
+              class="id_163566147024734 id_164188247072662"
+              stroke-opacity="0.69803923" stroke="#a28653"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -442.419189,-610.700195 C -429.988068,-551.560303 -500.051117,-444.203857 -559.190979,-431.772736"
+              class="id_157965634225679 id_68793499001"
+              stroke-opacity="0.69803923" stroke="#ae44c0"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -281.874451,-142.004745 C -327.086670,-158.077301 -370.796112,-250.004456 -354.723541,-295.216675"
+              class="id_111416188942880 id_339188887615"
+              stroke-opacity="0.69803923" stroke="#a13e8d"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 313.004150,-329.005829 C 231.428650,-172.629898 -125.498512,-60.429245 -281.874451,-142.004745"
+              class="id_286725714766033 id_111416188942880"
+              stroke-opacity="0.69803923" stroke="#a34590"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 313.004150,-329.005829 C 232.323883,-277.154053 33.525848,-320.396790 -18.325920,-401.077057"
+              class="id_286725714766033 id_128850220504786"
+              stroke-opacity="0.69803923" stroke="#a34590"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 313.004150,-329.005829 C 279.415283,-324.829926 222.768143,-368.949310 218.592224,-402.538177"
+              class="id_286725714766033 id_133104230098041"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 313.004150,-329.005829 C 313.129517,-238.142548 177.022659,-101.659645 86.159393,-101.534279"
+              class="id_286725714766033 id_165500080198037"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 86.159393,-101.534279 C 86.034042,-192.397552 222.140884,-328.880463 313.004150,-329.005829"
+              class="id_165500080198037 id_286725714766033"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 93.119255,-13.003592 C 73.895798,-120.181015 205.826721,-309.782379 313.004150,-329.005829"
+              class="id_262699747205943 id_286725714766033"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 218.592224,-402.538177 C 252.181076,-406.714081 308.828247,-362.594696 313.004150,-329.005829"
+              class="id_133104230098041 id_286725714766033"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 86.159393,-101.534279 C 153.747726,-65.675682 201.342346,89.494720 165.483749,157.083054"
+              class="id_165500080198037 id_335237883171442"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -176.559875,186.990036 C -114.132545,112.599907 91.093620,94.655724 165.483749,157.083054"
+              class="id_163566147024734 id_335237883171442"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 218.592224,-402.538177 C 271.404541,-299.536652 196.120773,-65.815918 93.119255,-13.003592"
+              class="id_133104230098041 id_262699747205943"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 218.592224,-402.538177 C 170.605576,-250.338150 -129.674423,-94.018097 -281.874451,-142.004745"
+              class="id_133104230098041 id_111416188942880"
+              stroke-opacity="0.69803923" stroke="#a34590"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 218.592224,-402.538177 C 171.500809,-354.862305 29.349934,-353.985657 -18.325920,-401.077057"
+              class="id_133104230098041 id_128850220504786"
+              stroke-opacity="0.69803923" stroke="#a34590"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 218.592224,-402.538177 C 252.306427,-315.850830 172.846741,-135.248489 86.159393,-101.534279"
+              class="id_133104230098041 id_165500080198037"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 86.159393,-101.534279 C 52.445175,-188.221634 131.904877,-368.823975 218.592224,-402.538177"
+              class="id_165500080198037 id_133104230098041"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 93.119255,-13.003592 C 74.021141,-29.317757 69.845230,-82.436165 86.159393,-101.534279"
+              class="id_262699747205943 id_165500080198037"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 86.159393,-101.534279 C 105.257507,-85.220116 109.433418,-32.101700 93.119255,-13.003592"
+              class="id_165500080198037 id_262699747205943"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -176.559875,186.990036 C -181.720886,76.741318 -24.089329,-96.373260 86.159393,-101.534279"
+              class="id_163566147024734 id_165500080198037"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -176.559875,186.990036 C -263.421753,142.253998 -326.610474,-55.142872 -281.874451,-142.004745"
+              class="id_163566147024734 id_111416188942880"
+              stroke-opacity="0.69803923" stroke="#a34590"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -176.559875,186.990036 C -163.952911,223.131912 -199.255249,296.255188 -235.397125,308.862152"
+              class="id_163566147024734 id_41974584248"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 16.272114,14.019372 C 7.138840,-23.068817 49.071205,-92.401001 86.159393,-101.534279"
+              class="id_108147365877214 id_165500080198037"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -281.874451,-142.004745 C -280.979187,-246.528931 -122.850098,-401.972321 -18.325920,-401.077057"
+              class="id_111416188942880 id_128850220504786"
+              stroke-opacity="0.69803923" stroke="#cd3daf"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -281.874451,-142.004745 C -395.291382,-144.495041 -561.681274,-318.355804 -559.190979,-431.772736"
+              class="id_111416188942880 id_68793499001"
+              stroke-opacity="0.69803923" stroke="#ae44c0"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -281.874451,-142.004745 C -341.755646,-307.136871 -183.879242,-644.656921 -18.747108,-704.538086"
+              class="id_111416188942880 id_250295802449"
+              stroke-opacity="0.69803923" stroke="#cd3daf"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 86.159393,-101.534279 C 4.458527,-36.021599 -216.361755,-60.303871 -281.874451,-142.004745"
+              class="id_165500080198037 id_111416188942880"
+              stroke-opacity="0.69803923" stroke="#a34590"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -18.325920,-401.077057 C -19.221165,-296.552887 -177.350266,-141.109497 -281.874451,-142.004745"
+              class="id_128850220504786 id_111416188942880"
+              stroke-opacity="0.69803923" stroke="#cd3daf"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -18.325920,-401.077057 C -146.995270,-411.880096 -323.794769,-621.088684 -312.991730,-749.758057"
+              class="id_128850220504786 id_246339298822772"
+              stroke-opacity="0.69803923" stroke="#cd3daf"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -559.190979,-431.772736 C -573.548218,-544.609680 -425.828644,-735.400879 -312.991730,-749.758057"
+              class="id_68793499001 id_246339298822772"
+              stroke-opacity="0.69803923" stroke="#ae44c0"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -18.747108,-704.538086 C -72.282814,-541.896240 -396.549133,-378.237030 -559.190979,-431.772736"
+              class="id_250295802449 id_68793499001" stroke-opacity="0.69803923"
+              stroke="#ae44c0"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -18.747108,-704.538086 C 42.029335,-643.930115 42.282051,-461.853485 -18.325920,-401.077057"
+              class="id_250295802449 id_128850220504786"
+              stroke-opacity="0.69803923" stroke="#cd3daf"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -18.325920,-401.077057 C -79.102364,-461.685028 -79.355080,-643.761658 -18.747108,-704.538086"
+              class="id_128850220504786 id_250295802449"
+              stroke-opacity="0.69803923" stroke="#cd3daf"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -559.190979,-431.772736 C -505.655273,-594.414551 -181.388947,-758.073730 -18.747108,-704.538086"
+              class="id_68793499001 id_250295802449" stroke-opacity="0.69803923"
+              stroke="#ae44c0"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -559.190979,-431.772736 C -444.878845,-533.806641 -120.359787,-515.389160 -18.325920,-401.077057"
+              class="id_68793499001 id_128850220504786"
+              stroke-opacity="0.69803923" stroke="#ae44c0"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -18.325920,-401.077057 C -132.638062,-299.043182 -457.157104,-317.460602 -559.190979,-431.772736"
+              class="id_128850220504786 id_68793499001"
+              stroke-opacity="0.69803923" stroke="#ae44c0"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -18.325920,-401.077057 C 62.479702,-362.065552 125.170883,-182.339905 86.159393,-101.534279"
+              class="id_128850220504786 id_165500080198037"
+              stroke-opacity="0.69803923" stroke="#a34590"/>
+        <path fill="none" stroke-width="10.0"
+              d="M 86.159393,-101.534279 C 5.353771,-140.545776 -57.337414,-320.271423 -18.325920,-401.077057"
+              class="id_165500080198037 id_128850220504786"
+              stroke-opacity="0.69803923" stroke="#a34590"/>
+        <path fill="none" stroke-width="10.0"
+              d="M -235.397125,308.862152 C -253.165100,162.471558 -60.231194,-83.766296 86.159393,-101.534279"
+              class="id_41974584248 id_165500080198037"
+              stroke-opacity="0.69803923" stroke="#794d72"/>
+    </g>
+    <g id="node-labels">
+        <text font-size="58" x="346.55566" y="82.91647" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_371282836815">
+            Geledés Instituto da Mulher Negra
+        </text>
+        <text font-size="44" x="179.64859" y="441.72354" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_149639318398298">
+            Lenine
+        </text>
+        <text font-size="18" x="537.90375" y="-76.979324" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_97261063097">
+            Global Fund for Women
+        </text>
+        <text font-size="50" x="388.3348" y="-136.80765" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_111139578897266">
+            Médicos Sem Fronteiras
+        </text>
+        <text font-size="52" x="71.10196" y="694.4303" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_159103797542">
+            Greenpeace Brasil
+        </text>
+        <text font-size="28" x="252.21573" y="-41.038498" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_18983389920">
+            Open Society Foundations
+        </text>
+        <text font-size="27" x="-67.64983" y="-834.16327" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_44015482829">
+            United Nations Development Programme - UNDP
+        </text>
+        <text font-size="37" x="-106.89027" y="46.872128" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_42940254353">
+            Human Rights Watch
+        </text>
+        <text font-size="53" x="343.58847" y="-672.84827" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_8047221596">
+            Save the Children US
+        </text>
+        <text font-size="50" x="42.927998" y="540.5717" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_925471367491763">
+            Camila Pitanga
+        </text>
+        <text font-size="60" x="-126.244644" y="794.22626" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_128416167198648">
+            Marcelo Freixo
+        </text>
+        <text font-size="21" x="-169.1539" y="364.84033" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_488356901209621">
+            Armandinho
+        </text>
+        <text font-size="20" x="-289.44174" y="687.48846" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_184749301592842">
+            Occupy Wall St.
+        </text>
+        <text font-size="73" x="24.336292" y="980.90063" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_164188247072662">
+            Mídia Ninja
+        </text>
+        <text font-size="41" x="-442.4192" y="-603.23627" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_157965634225679">
+            Nations Unies
+        </text>
+        <text font-size="74" x="-354.72354" y="-281.7572" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_339188887615">
+            Dalai Lama
+        </text>
+        <text font-size="19" x="313.00415" y="-325.42786" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_286725714766033">
+            Ministério da Cultura
+        </text>
+        <text font-size="64" x="104.6464" y="-234.2871" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_468207846523343">
+            Nelson Mandela
+        </text>
+        <text font-size="19" x="-539.21606" y="-15.564584" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_9025047571">
+            Amnesty International France
+        </text>
+        <text font-size="46" x="87.49494" y="-976.1394" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_7258206754">
+            Jeune Afrique
+        </text>
+        <text font-size="18" x="-316.53506" y="45.147846" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_126256360759057">
+            Corte Interamericana de Derechos Humanos
+        </text>
+        <text font-size="39" x="165.48375" y="164.30351" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_335237883171442">
+            Leonardo Sakamoto
+        </text>
+        <text font-size="23" x="218.59222" y="-398.2107" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_133104230098041">
+            Ministério do Trabalho
+        </text>
+        <text font-size="24" x="93.119255" y="-7.2555456" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_262699747205943">
+            Ministério da Justiça
+        </text>
+        <text font-size="54" x="-176.55988" y="199.49687" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_163566147024734">
+            Jean Wyllys
+        </text>
+        <text font-size="19" x="-207.54118" y="89.47813" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_222622707758668">
+            Conselho Federal da OAB
+        </text>
+        <text font-size="19" x="16.272114" y="17.537031" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_108147365877214">
+            Canal Futura
+        </text>
+        <text font-size="66" x="-281.87445" y="-129.78014" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_111416188942880">
+            ONU Brasil
+        </text>
+        <text font-size="26" x="-312.99173" y="-743.6559" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_246339298822772">
+            UNICEF Egypt يونيسف مصر
+        </text>
+        <text font-size="19" x="-18.747108" y="-700.07874" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_250295802449">
+            UNICEF Argentina
+        </text>
+        <text font-size="67" x="-559.191" y="-419.36835" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_68793499001">
+            UNICEF
+        </text>
+        <text font-size="18" x="-18.32592" y="-397.74454" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_128850220504786">
+            UNICEF Brasil
+        </text>
+        <text font-size="40" x="86.15939" y="-94.25889" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_165500080198037">
+            Direitos Humanos Brasil
+        </text>
+        <text font-size="36" x="-235.39713" y="315.52133" fill="#ffffff"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Arial" class="id_41974584248">
+            Leonardo Boff
+        </text>
+    </g>
+</svg>

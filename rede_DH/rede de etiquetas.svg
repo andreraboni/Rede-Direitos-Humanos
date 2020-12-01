@@ -1,0 +1,2303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg contentScriptType="text/ecmascript" width="2193.0"
+     xmlns:xlink="http://www.w3.org/1999/xlink" zoomAndPan="magnify"
+     contentStyleType="text/css"
+     viewBox="-1259.000000 -1089.000000 2193.000000 2179.000000" height="2179.0"
+     preserveAspectRatio="xMidYMid meet" xmlns="http://www.w3.org/2000/svg"
+     version="1.1">
+    <g id="node-labels">
+        <text font-size="17" x="187.40105" y="135.26657" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_127789930632668">
+            Conectas Direitos Humanos
+        </text>
+        <text font-size="24" x="309.38065" y="614.08563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_453567734821806">
+            TVDrone
+        </text>
+        <text font-size="16" x="478.6544" y="-30.335367" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_851054424979169">
+            Fiquem Sabendo
+        </text>
+        <text font-size="16" x="-105.375854" y="-422.65005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_209471145751778">
+            Egyptian Initiative for Personal Rights - المبادرة المصرية للحقوق
+            الشخصية
+        </text>
+        <text font-size="69" x="427.17233" y="-171.92268" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_172444996112900">
+            Fundo Brasil de Direitos Humanos
+        </text>
+        <text font-size="16" x="-250.97481" y="-228.78784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_173435139517966">
+            Dia de Doar
+        </text>
+        <text font-size="16" x="541.0815" y="139.54353" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_157037681160828">
+            UNEafro Brasil
+        </text>
+        <text font-size="16" x="87.940056" y="-597.69617" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_100298938781">
+            Robert Wood Johnson Foundation
+        </text>
+        <text font-size="16" x="230.72014" y="-571.3062" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_284226764998419">
+            Living Cities
+        </text>
+        <text font-size="17" x="438.91708" y="-281.87375" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_421172618072577">
+            Projeto #Colabora
+        </text>
+        <text font-size="16" x="694.72675" y="329.36438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_362320297207300">
+            MH2O Hip-Hop Organizado
+        </text>
+        <text font-size="22" x="167.43556" y="499.76926" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_303168266490111">
+            CDDH- Petrópolis
+        </text>
+        <text font-size="16" x="305.5209" y="-477.79205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_585068421576696">
+            Revista Afirmativa
+        </text>
+        <text font-size="16" x="659.66016" y="-363.2583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1589093218007120">
+            Mirante Cultural
+        </text>
+        <text font-size="16" x="475.11792" y="-270.22418" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_109481719213727">
+            CDDH Marçal de Souza Tupã-I
+        </text>
+        <text font-size="16" x="-32.96844" y="279.83246" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_297647910289795">
+            Grupo Conexão G de Cidadania LGBT de Favelas
+        </text>
+        <text font-size="16" x="80.48376" y="-332.00333" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_390241197686560">
+            Centro de Defesa da Vida e dos Direitos Humanos Carmen Bascarán
+        </text>
+        <text font-size="16" x="526.064" y="-181.54866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_311016415771497">
+            Inegra
+        </text>
+        <text font-size="16" x="660.26" y="-411.00284" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1093279784025916">
+            Língua de Trapo
+        </text>
+        <text font-size="16" x="171.32962" y="-351.83902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_556233677918425">
+            Captamos
+        </text>
+        <text font-size="16" x="644.89026" y="-165.78575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_437745469726562">
+            Amigos DaTerra Brasil
+        </text>
+        <text font-size="16" x="655.362" y="-385.31012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_158928604138439">
+            Grupo Transas do Corpo
+        </text>
+        <text font-size="16" x="140.60919" y="-174.90608" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_866893250001747">
+            Cedeca Bahia
+        </text>
+        <text font-size="16" x="646.44495" y="-370.69983" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1398781397008716">
+            Rede de Mulheres Produtoras do Pajeú
+        </text>
+        <text font-size="16" x="674.54895" y="-379.751" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_229561493755353">
+            Rádio Vida FM Campo Belo
+        </text>
+        <text font-size="16" x="647.0076" y="-404.33096" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_595724033914375">
+            Fórum de Religiões de Matriz Africana
+        </text>
+        <text font-size="16" x="51.584934" y="54.60605" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_258397420921426">
+            Unipop
+        </text>
+        <text font-size="16" x="205.30447" y="214.8287" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_269488799820532">
+            Luana Hansen
+        </text>
+        <text font-size="58" x="83.61249" y="132.77933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_371282836815">
+            Geledés Instituto da Mulher Negra
+        </text>
+        <text font-size="44" x="611.47125" y="-470.23734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_149639318398298">
+            Lenine
+        </text>
+        <text font-size="16" x="269.3574" y="-156.12935" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_476471932428423">
+            Cáritas Regional Ceará
+        </text>
+        <text font-size="16" x="674.9315" y="402.59073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_143358019405056">
+            Radio Mutirão
+        </text>
+        <text font-size="16" x="549.91565" y="-81.258575" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1489662441328528">
+            Mural - Agência de Jornalismo das Periferias
+        </text>
+        <text font-size="16" x="246.21623" y="-260.40277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_584451451576063">
+            Cunhã Coletivo Feminista
+        </text>
+        <text font-size="16" x="-271.11682" y="-139.5114" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_214848468536445">
+            Instituto Maria da Penha - IMP
+        </text>
+        <text font-size="16" x="95.77135" y="-381.72314" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_391484814207999">
+            Portal Correio Nagô
+        </text>
+        <text font-size="16" x="517.58734" y="28.856077" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_105552646173509">
+            Revista Ocas&quot;&quot;
+        </text>
+        <text font-size="16" x="179.48761" y="-319.94717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1426469454253762">
+            Themis
+        </text>
+        <text font-size="16" x="206.85555" y="-254.90744" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_256785111049954">
+            Bamidelê
+        </text>
+        <text font-size="16" x="643.6793" y="180.78542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_448878955286992">
+            Comunidade João Pessoa
+        </text>
+        <text font-size="16" x="696.73267" y="223.76538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_241155812750016">
+            Na Rua
+        </text>
+        <text font-size="16" x="689.30743" y="507.70514" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_560764717352275">
+            Coletivo Mulheres no Cárcere
+        </text>
+        <text font-size="16" x="547.9155" y="-98.82047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_473601666147648">
+            Risca Faca
+        </text>
+        <text font-size="16" x="-78.24919" y="642.76654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_125105187567017">
+            ESPOCC - Escola Popular de Comunicação Crítica
+        </text>
+        <text font-size="16" x="351.2009" y="821.2345" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_232180020222221">
+            Vila Autódromo
+        </text>
+        <text font-size="16" x="624.0563" y="-426.87088" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1081134688616862">
+            Água vale mais que minério
+        </text>
+        <text font-size="16" x="61.043243" y="-450.3505" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_174118102615738">
+            Brot für die Welt
+        </text>
+        <text font-size="16" x="-74.41528" y="-20.570242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_284771748280164">
+            Ashoka Brasil
+        </text>
+        <text font-size="18" x="217.86118" y="-472.87833" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_97261063097">
+            Global Fund for Women
+        </text>
+        <text font-size="25" x="180.0978" y="-618.7812" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_148475051852754">
+            Rockefeller Foundation
+        </text>
+        <text font-size="50" x="-191.27913" y="-76.51478" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_111139578897266">
+            Médicos Sem Fronteiras
+        </text>
+        <text font-size="52" x="213.87637" y="-36.70006" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_159103797542">
+            Greenpeace Brasil
+        </text>
+        <text font-size="28" x="53.053387" y="-271.54544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_18983389920">
+            Open Society Foundations
+        </text>
+        <text font-size="16" x="389.6398" y="-608.6154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_239970686049306">
+            New Philanthropy Capital
+        </text>
+        <text font-size="16" x="-160.26303" y="-417.425" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_147719441727">
+            National Endowment for Democracy
+        </text>
+        <text font-size="16" x="1.8415115" y="-550.66943" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_258375947578">
+            IDRC / CRDI
+        </text>
+        <text font-size="16" x="-97.649414" y="-520.6574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_6259627755">
+            Grassroots International
+        </text>
+        <text font-size="16" x="-87.55188" y="-496.40598" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_304864759565672">
+            Global Dialogues
+        </text>
+        <text font-size="16" x="-291.28528" y="-224.99327" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_123452764365074">
+            Fundación Avina
+        </text>
+        <text font-size="16" x="669.341" y="-395.38184" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_170169493012341">
+            The Fund for Global Human Rights
+        </text>
+        <text font-size="16" x="292.92334" y="-507.0951" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_271177146227069">
+            FRIDA | The Young Feminist Fund
+        </text>
+        <text font-size="17" x="1.0836334" y="-323.73126" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_132732160104163">
+            Ford Foundation
+        </text>
+        <text font-size="19" x="278.50525" y="-304.34882" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_706933539357012">
+            ELAS Fundo de Investimento Social
+        </text>
+        <text font-size="16" x="394.98935" y="284.20935" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_828403893951914">
+            Nóspornós
+        </text>
+        <text font-size="16" x="581.74084" y="245.89917" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_762865640427489">
+            Mudamos
+        </text>
+        <text font-size="50" x="234.89531" y="21.425167" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_470750715303">
+            Instituto Socioambiental - ISA
+        </text>
+        <text font-size="16" x="-22.89031" y="16.011116" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1431088403808904">
+            ABGLT
+        </text>
+        <text font-size="16" x="351.5862" y="-255.19012" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_624814470946753">
+            Coordenadoria Ecumênica de Serviço
+        </text>
+        <text font-size="24" x="-262.7149" y="-1.8687191" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_553995971361176">
+            Marco Regulatório das Organizações da Sociedade Civil
+        </text>
+        <text font-size="16" x="508.88367" y="495.76944" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_487948524665065">
+            Coletivo Papo Reto
+        </text>
+        <text font-size="16" x="103.11051" y="-104.9231" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_148870245214457">
+            Agência Patrícia Galvão
+        </text>
+        <text font-size="16" x="617.03235" y="-104.62886" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_180488958742681">
+            Urucum - Direitos Humanos, Comunicação e Justiça
+        </text>
+        <text font-size="16" x="595.9899" y="-346.41342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_450524011739150">
+            Caravana Tonteria
+        </text>
+        <text font-size="16" x="609.0698" y="-410.23334" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_260056530828152">
+            Gávea Filmes
+        </text>
+        <text font-size="16" x="333.0671" y="10.686472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1608949669375692">
+            Leticia Sabatella
+        </text>
+        <text font-size="16" x="747.9258" y="381.97366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_175338112798769">
+            Tentam nos Enterrar, mas Somos Sementes
+        </text>
+        <text font-size="16" x="627.3683" y="-411.14047" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_125399390982439">
+            Centro de Umbanda Caboclo Tupy
+        </text>
+        <text font-size="16" x="540.36755" y="-558.35846" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_15533633383">
+            Brazilian Day in New York
+        </text>
+        <text font-size="34" x="601.6336" y="-565.2456" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_135027963226200">
+            Banda Olodum Samba Reggae
+        </text>
+        <text font-size="16" x="595.6221" y="-420.5567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_334051200094544">
+            CAMI - Centro de Apoio e Pastoral do Migrante
+        </text>
+        <text font-size="16" x="434.69073" y="-550.2641" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_557174827754637">
+            Brasil Sem Violência
+        </text>
+        <text font-size="16" x="651.80225" y="-522.90955" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_125003850982730">
+            Instituto Baixada
+        </text>
+        <text font-size="16" x="638.1677" y="-532.7057" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1825856357638475">
+            Fundo PositHiVo
+        </text>
+        <text font-size="16" x="-197.61137" y="-413.0343" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1412391625662685">
+            IDIS - Instituto para o Desenvolvimento do Investimento Social
+        </text>
+        <text font-size="49" x="506.41293" y="328.26773" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_325499670933452">
+            Ponte Jornalismo
+        </text>
+        <text font-size="16" x="423.0482" y="130.35498" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_263973413710998">
+            Conselho Indigenista Missionário - Cimi
+        </text>
+        <text font-size="16" x="617.29205" y="-395.34656" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_134194246614805">
+            CRIA Criando
+        </text>
+        <text font-size="16" x="247.808" y="75.10783" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1420335984873175">
+            Camtra Casa da Mulher Trabalhadora
+        </text>
+        <text font-size="16" x="-38.65018" y="-203.73985" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_227280257294671">
+            CHAME
+        </text>
+        <text font-size="65" x="420.32086" y="540.9542" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_173936532742055">
+            Mães de Maio
+        </text>
+        <text font-size="27" x="585.2659" y="440.35593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_123417721027845">
+            Passa Palavra
+        </text>
+        <text font-size="16" x="-352.01505" y="-169.1507" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_126491270729748">
+            Childhood Brasil
+        </text>
+        <text font-size="16" x="22.076956" y="-46.64712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_202502296500032">
+            Anced/ Seção DCI Brasil
+        </text>
+        <text font-size="16" x="510.10202" y="-75.65419" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_280580735400930">
+            Círculo Palmarino
+        </text>
+        <text font-size="29" x="100.84518" y="-445.58563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_237945829595467">
+            Articulação Política de Juventudes Negras
+        </text>
+        <text font-size="16" x="57.430313" y="-160.9548" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_482880638425296">
+            Fórum DCA - Ceará
+        </text>
+        <text font-size="29" x="141.83769" y="-257.27982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_327961817257527">
+            Odara - Instituto da Mulher Negra
+        </text>
+        <text font-size="16" x="211.04388" y="76.01312" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_185259481523015">
+            Movimento Xingu Vivo para Sempre
+        </text>
+        <text font-size="16" x="400.16498" y="-310.95844" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_830777750272728">
+            Tambores de Safo
+        </text>
+        <text font-size="16" x="548.23267" y="-368.50934" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_590384050990712">
+            Fórum Cearense de Mulheres/AMB
+        </text>
+        <text font-size="16" x="449.087" y="344.1635" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_411839478852872">
+            Pastoral Carcerária - CNBB
+        </text>
+        <text font-size="32" x="338.9337" y="344.44278" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_168262279871778">
+            Justiça Global
+        </text>
+        <text font-size="16" x="353.33994" y="230.28415" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_370019323106525">
+            ITTC - Instituto Terra, Trabalho e Cidadania
+        </text>
+        <text font-size="34" x="382.94235" y="84.53729" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_138412199531340">
+            Instituto de Defesa do Direito de Defesa - IDDD
+        </text>
+        <text font-size="69" x="525.2635" y="691.0604" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_347772661906399">
+            Instituto de Defensores de Direitos Humanos - DDH
+        </text>
+        <text font-size="16" x="635.9066" y="-395.18094" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_269885119691703">
+            GTP+ PositHIVo
+        </text>
+        <text font-size="16" x="675.2976" y="-363.51782" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1517129968505480">
+            Comissão Pastoral da Terra / CPT- Alto xingu
+        </text>
+        <text font-size="16" x="228.16396" y="383.27432" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_137388906466961">
+            Centro Popular de Direitos Humanos - CPDH
+        </text>
+        <text font-size="16" x="607.1069" y="-430.35822" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_438001772949646">
+            Centro Cultural Coco de Umbigada
+        </text>
+        <text font-size="16" x="666.51245" y="142.82193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_532903790180200">
+            Amparar
+        </text>
+        <text font-size="16" x="282.54916" y="-426.9217" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_439226046093285">
+            Aprosmig - Associação das Prostitutas de Minas Gerais
+        </text>
+        <text font-size="16" x="532.1899" y="-274.60168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1461602217452562">
+            Associação das Comunidades dos Índios Tapeba de Caucaia - ACITA
+        </text>
+        <text font-size="16" x="496.61002" y="-291.76282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_382346491915475">
+            Acesso - Cidadania e Direitos Humanos
+        </text>
+        <text font-size="26" x="437.6706" y="823.0571" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_220708154655907">
+            Comitê Popular Rio Copa e Olimpíadas
+        </text>
+        <text font-size="16" x="429.52768" y="-65.0337" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_118528804894694">
+            FOIRN - Federação das Organizações Indígenas do Rio Negro
+        </text>
+        <text font-size="16" x="459.0184" y="157.49458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_830317820335306">
+            Agência de Conteúdo em Direitos Humanos - Agência CDH
+        </text>
+        <text font-size="16" x="-145.84851" y="32.750168" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_242429569270309">
+            Escravo, nem pensar
+        </text>
+        <text font-size="16" x="67.98558" y="221.51813" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_163741013790589">
+            CEERT
+        </text>
+        <text font-size="16" x="11.357008" y="-9.907675" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_232736033601152">
+            Todas as vozes contra as violências de gênero
+        </text>
+        <text font-size="16" x="581.0909" y="-521.85815" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_507560759429188">
+            Rede de Filantropia para a Justiça Social
+        </text>
+        <text font-size="16" x="494.03342" y="416.55283" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_219757011452914">
+            Articulação Nacional dos Comitês Populares da Copa ANCOP
+        </text>
+        <text font-size="80" x="134.03064" y="367.50745" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_187970114581051">
+            Anistia Internacional Brasil
+        </text>
+        <text font-size="16" x="631.9013" y="-380.1931" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_214998612030858">
+            Núcleo de Prática Jurídica - IBMEC
+        </text>
+        <text font-size="23" x="693.5472" y="-176.3263" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_373092386119483">
+            Najurp - Núcleo de Assessoria Jurídica Popular de Ribeirão Preto
+        </text>
+        <text font-size="16" x="98.63784" y="-193.28366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_108193785957013">
+            Clínica de Direitos Humanos
+        </text>
+        <text font-size="16" x="490.41898" y="105.75134" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_404443966324869">
+            Clínica UERJ Direitos
+        </text>
+        <text font-size="16" x="165.65654" y="41.06289" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_113039575501956">
+            CEDECA Ceará
+        </text>
+        <text font-size="16" x="255.11072" y="-195.96538" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_381662025253638">
+            Centro de Agricultura Alternativa do Norte de Minas
+        </text>
+        <text font-size="16" x="519.0684" y="215.43513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_148296042039224">
+            Associação de Advogados/as de Trabalhadores/as Rurais - AATR/Bahia
+        </text>
+        <text font-size="16" x="661.8187" y="-35.353638" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_207623989442764">
+            Comitê cearense pela desmilitarização da polícia e da política
+        </text>
+        <text font-size="16" x="642.18445" y="-422.78885" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_202008229838157">
+            Cerrado Assessoria Juridica Popular
+        </text>
+        <text font-size="16" x="-2.7432594" y="581.8518" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_155587314578554">
+            Fórum de Juventudes do Rio de Janeiro
+        </text>
+        <text font-size="16" x="273.25925" y="212.27995" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_277811738943457">
+            Justiça nos Trilhos
+        </text>
+        <text font-size="16" x="695.0903" y="267.517" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_325443010952848">
+            Racismo Mata
+        </text>
+        <text font-size="26" x="317.03925" y="117.04238" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_515031325178557">
+            Terra de Direitos
+        </text>
+        <text font-size="16" x="408.52713" y="184.26942" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1418496105084040">
+            Somos Todxs Defensorxs
+        </text>
+        <text font-size="16" x="102.81566" y="-9.570587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_357095364386674">
+            Plataforma de Direitos Humanos
+        </text>
+        <text font-size="25" x="-93.90438" y="-291.68277" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_106574116067816">
+            Think and Love
+        </text>
+        <text font-size="35" x="-584.1702" y="-876.4708" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_79148803373">
+            ADDHU - Associação de Defesa dos Direitos Humanos
+        </text>
+        <text font-size="16" x="-647.9025" y="-1075.2686" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_475057399264423">
+            African Wazo
+        </text>
+        <text font-size="16" x="-640.08875" y="-1029.2457" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_108305165973190">
+            Eco Family
+        </text>
+        <text font-size="16" x="-521.1705" y="-781.54767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_213899473488">
+            Plataforma Portuguesa das ONGD
+        </text>
+        <text font-size="27" x="-646.6626" y="-422.6097" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_44015482829">
+            United Nations Development Programme - UNDP
+        </text>
+        <text font-size="37" x="-20.74821" y="-152.18964" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_42940254353">
+            Human Rights Watch
+        </text>
+        <text font-size="16" x="-834.9976" y="-831.3616" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_107385241806">
+            Plan International Canada
+        </text>
+        <text font-size="16" x="-654.95874" y="-1061.4949" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_21357153743">
+            Burma Campaign UK
+        </text>
+        <text font-size="17" x="-99.19407" y="-399.2845" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_122344957784863">
+            Amnistia Internacional Portugal
+        </text>
+        <text font-size="16" x="-669.7626" y="-1065.314" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_21589857761">
+            Tiago Pires
+        </text>
+        <text font-size="53" x="-535.9901" y="-334.17172" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_8047221596">
+            Save the Children US
+        </text>
+        <text font-size="16" x="287.83545" y="462.8204" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_107273936281130">
+            CEPCT RJ
+        </text>
+        <text font-size="16" x="-207.28171" y="-252.0512" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_104215636372194">
+            Champs Libres - communauté
+        </text>
+        <text font-size="17" x="-213.12027" y="129.42346" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1537231013206963">
+            Amigos do Conselho Tutelar
+        </text>
+        <text font-size="50" x="10.336387" y="535.95435" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_925471367491763">
+            Camila Pitanga
+        </text>
+        <text font-size="24" x="129.44086" y="253.70244" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_705466469568992">
+            Defensoria Pública do Estado do Rio de Janeiro
+        </text>
+        <text font-size="16" x="609.9409" y="1008.7324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1724120071140869">
+            Ocupação Vito Giannotti
+        </text>
+        <text font-size="16" x="923.537" y="915.6541" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1449024198678268">
+            Jornal Brasil Negro
+        </text>
+        <text font-size="16" x="886.87415" y="898.66125" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_671607532923669">
+            Fundo Nacional de Combate ao Racismo
+        </text>
+        <text font-size="16" x="784.74615" y="514.9828" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_646547005444452">
+            Pretaria
+        </text>
+        <text font-size="28" x="602.87555" y="746.52814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_188913581298777">
+            Grimoire
+        </text>
+        <text font-size="19" x="340.73306" y="977.0308" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_559491264198243">
+            Todo Mundo Tem Direitos
+        </text>
+        <text font-size="28" x="95.40502" y="746.40076" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_160078507503582">
+            Comissão Estadual da Verdade do Rio de Janeiro
+        </text>
+        <text font-size="17" x="420.83823" y="739.92975" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1485355621759400">
+            Não fechem minha escola
+        </text>
+        <text font-size="16" x="863.42096" y="808.2083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1415652772076915">
+            Odyr
+        </text>
+        <text font-size="60" x="217.89453" y="877.35986" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_128416167198648">
+            Marcelo Freixo
+        </text>
+        <text font-size="16" x="383.43515" y="597.65857" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_381752085274894">
+            Instituto Zequinha Barreto
+        </text>
+        <text font-size="30" x="200.06108" y="261.8982" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_226894137375855">
+            Instituto Vladimir Herzog
+        </text>
+        <text font-size="16" x="41.03991" y="425.70703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_531401603605413">
+            Centro Acadêmico Arno Preis
+        </text>
+        <text font-size="16" x="333.59555" y="38.523746" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_231632230273656">
+            Fórum Justiça
+        </text>
+        <text font-size="17" x="26.785105" y="-125.62242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_63820026592">
+            Caritas
+        </text>
+        <text font-size="16" x="-89.790184" y="-72.21291" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_134775733371817">
+            PARES Cáritas RJ
+        </text>
+        <text font-size="16" x="767.15784" y="506.8729" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1416872355288838">
+            Grupo de Amigos e Familiares de Pessoas em Privação de Liberdade
+        </text>
+        <text font-size="16" x="233.32709" y="505.56805" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1610339535913833">
+            Candelária Nunca Mais
+        </text>
+        <text font-size="16" x="-116.61832" y="-32.025158" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_357764431229">
+            Center for Justice and International Law-CEJIL
+        </text>
+        <text font-size="16" x="847.1732" y="847.52704" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_286682614816627">
+            Aqui é São Paulo
+        </text>
+        <text font-size="16" x="751.98456" y="747.3467" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_168405746678065">
+            Linhas de Fuga
+        </text>
+        <text font-size="16" x="788.3968" y="667.88354" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1001396333225180">
+            43 Sudamérica-Ayotzinapa
+        </text>
+        <text font-size="16" x="554.99945" y="968.86005" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_544073918946792">
+            Marcha da Maconha São Paulo
+        </text>
+        <text font-size="16" x="147.03903" y="875.95544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_641932559273527">
+            Niterói Contra a Redução da Maioridade Penal
+        </text>
+        <text font-size="16" x="247.90648" y="962.7477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_317316178314170">
+            Núcleo Frei Tito de Direitos Humanos, Comunicação e Cultura do PSOL
+        </text>
+        <text font-size="16" x="601.53577" y="1082.3878" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_152931978226153">
+            Marcha da Maconha Niterói
+        </text>
+        <text font-size="16" x="862.14185" y="760.5613" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_591657917626734">
+            Garis do Rio de Janeiro em Luta
+        </text>
+        <text font-size="16" x="-98.969536" y="390.59537" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_339652869561544">
+            Amanhecer Contra a Redução
+        </text>
+        <text font-size="21" x="96.79919" y="497.07596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_488356901209621">
+            Armandinho
+        </text>
+        <text font-size="16" x="-132.86435" y="636.0438" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_112156465537909">
+            Laboratório de Direitos Humanos da UFRJ
+        </text>
+        <text font-size="16" x="838.7432" y="833.41473" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_596467080363553">
+            Fórum de Trabalhadores de Saúde Mental de Niterói
+        </text>
+        <text font-size="16" x="501.1018" y="584.1226" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_310233189122910">
+            Criminologia Cautelar
+        </text>
+        <text font-size="16" x="583.69525" y="349.18887" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_287607564738966">
+            Centro de Assessoria Popular Mariana Criola
+        </text>
+        <text font-size="17" x="80.65753" y="579.06195" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_151626828228054">
+            Ibase
+        </text>
+        <text font-size="16" x="506.41974" y="973.55927" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_512944915457289">
+            Coletivo Carranca
+        </text>
+        <text font-size="16" x="676.7152" y="573.95245" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1438101663120508">
+            Combate Racismo Ambiental
+        </text>
+        <text font-size="16" x="858.1101" y="829.7448" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_436551843222437">
+            Favela NÃO Se Cala Real
+        </text>
+        <text font-size="17" x="648.67114" y="515.57477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_176309402425319">
+            Passe Livre São Paulo
+        </text>
+        <text font-size="54" x="598.9437" y="847.2322" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_280853248721200">
+            Mariachi
+        </text>
+        <text font-size="16" x="333.40378" y="906.1453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_656609231036431">
+            Universidade Aldeia Maracanã
+        </text>
+        <text font-size="16" x="649.68756" y="993.1314" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_334699183331000">
+            Frente Independente Popular - RJ
+        </text>
+        <text font-size="17" x="574.74536" y="562.0247" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_464790330225970">
+            MTST - Movimento dos Trabalhadores Sem-Teto
+        </text>
+        <text font-size="16" x="682.4176" y="656.27454" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_231026160386728">
+            coletivo vinhetando
+        </text>
+        <text font-size="50" x="-29.880898" y="480.83154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_103250716435866">
+            Observatório de Favelas
+        </text>
+        <text font-size="16" x="485.69272" y="791.44006" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1469106926650823">
+            Pela Liberdade de Rafael Braga Vieira
+        </text>
+        <text font-size="16" x="464.7838" y="715.75726" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_604938726193769">
+            Abuso de Autoridade
+        </text>
+        <text font-size="16" x="640.2849" y="1067.6483" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_100244563400186">
+            Movimento pela Legalização da Maconha
+        </text>
+        <text font-size="16" x="848.09424" y="927.33655" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_646538315402107">
+            FIM DA UPP
+        </text>
+        <text font-size="16" x="774.9931" y="928.1757" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_729254657142557">
+            15 De Outubro - Nós Não Esqueceremos
+        </text>
+        <text font-size="16" x="330.89996" y="491.98364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_655129321213222">
+            Comissão de Direitos Humanos da Oab/jf
+        </text>
+        <text font-size="16" x="849.2116" y="816.64453" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_301906329973399">
+            Cine Manguinhos
+        </text>
+        <text font-size="16" x="568.2036" y="779.29596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_499563496845758">
+            Comissão dos Pais e Familiares dos Presos e Perseguidos Políticos -
+            RJ
+        </text>
+        <text font-size="16" x="468.54868" y="228.79678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_194983257239003">
+            OBORÉ Projetos Especiais
+        </text>
+        <text font-size="18" x="341.5558" y="547.6275" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_598268693591136">
+            SP invisível
+        </text>
+        <text font-size="16" x="833.53015" y="857.1189" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_530226543775479">
+            O Estopim
+        </text>
+        <text font-size="16" x="524.09814" y="813.058" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_576771762395909">
+            Advogado Antiproibicionista
+        </text>
+        <text font-size="16" x="330.4805" y="767.8866" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_171893489546189">
+            Fazendo Media
+        </text>
+        <text font-size="16" x="-274.81882" y="576.8265" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_265283576829521">
+            ENSP/Fiocruz
+        </text>
+        <text font-size="16" x="479.76544" y="997.73083" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_240552376093229">
+            Latuff Brasil
+        </text>
+        <text font-size="16" x="216.42227" y="806.1905" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_156400814520330">
+            Coletivo RJ Memória, Verdade e Justiça
+        </text>
+        <text font-size="20" x="528.5529" y="449.12524" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_184749301592842">
+            Occupy Wall St.
+        </text>
+        <text font-size="35" x="803.3332" y="719.5193" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_179317965503013">
+            Julio Lancellotti
+        </text>
+        <text font-size="16" x="673.30194" y="936.59796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_170962256420386">
+            Olhar Independente
+        </text>
+        <text font-size="16" x="-49.79312" y="805.21814" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_548651315197481">
+            A Ocupação
+        </text>
+        <text font-size="16" x="288.8807" y="913.47546" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_246106538864633">
+            Cristoversivos
+        </text>
+        <text font-size="16" x="438.8441" y="614.29236" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_247924485404457">
+            Marcha Nacional Contra o Genocídio do Povo Negro - RJ
+        </text>
+        <text font-size="16" x="277.71783" y="572.87396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_227280064014716">
+            Sociedade Sem Prisões
+        </text>
+        <text font-size="16" x="-170.60469" y="707.7061" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_104337306271248">
+            Rede FALE
+        </text>
+        <text font-size="16" x="783.9868" y="776.2736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_233473626850991">
+            Assembleia Popular no Largo do Machado
+        </text>
+        <text font-size="73" x="269.1141" y="729.0325" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_164188247072662">
+            Mídia Ninja
+        </text>
+        <text font-size="42" x="148.68422" y="801.52014" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_241897672509479">
+            Meu Rio
+        </text>
+        <text font-size="16" x="269.08395" y="161.38493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_323425647792394">
+            Human Rights Watch Brasil
+        </text>
+        <text font-size="16" x="569.55444" y="906.0041" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1527523764141667">
+            Ocupa Copa
+        </text>
+        <text font-size="16" x="311.48584" y="860.32513" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_179955152153314">
+            Sindicato Jornalistas Profissionais Rio
+        </text>
+        <text font-size="16" x="217.97627" y="634.8611" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_433475113370489">
+            Pense Livre
+        </text>
+        <text font-size="16" x="730.5003" y="871.68774" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_395287640594400">
+            Porque eu quis
+        </text>
+        <text font-size="16" x="382.9325" y="993.92755" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_349918891707780">
+            Apafunk Associação
+        </text>
+        <text font-size="16" x="410.7975" y="909.10583" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_221511584606085">
+            Revista Vírus
+        </text>
+        <text font-size="33" x="402.30753" y="235.7764" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_150615498430908">
+            ARTIGO 19
+        </text>
+        <text font-size="16" x="519.88525" y="267.34366" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_206921985987194">
+            IBCCRIM
+        </text>
+        <text font-size="16" x="720.5609" y="993.4576" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_255034868002878">
+            Marcha da Maconha RJ
+        </text>
+        <text font-size="26" x="271.86218" y="625.16394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_225673534156868">
+            Instituto Raízes em Movimento
+        </text>
+        <text font-size="16" x="-164.86702" y="542.3472" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_325401807477957">
+            Liga dos Direitos Humanos
+        </text>
+        <text font-size="17" x="349.37717" y="699.4063" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_279973575379393">
+            Movimento Direito Para Quem
+        </text>
+        <text font-size="16" x="659.74194" y="728.8896" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_687285374661523">
+            Assembleia Popular do Grande Méier
+        </text>
+        <text font-size="16" x="490.81058" y="896.9731" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1393713314174252">
+            Rio Na Rua
+        </text>
+        <text font-size="16" x="400.98962" y="768.4497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_443075235735081">
+            Rede de Comunidades e Movimentos contra a Violência
+        </text>
+        <text font-size="17" x="610.3679" y="612.1855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_495852747151291">
+            Advogados Ativistas
+        </text>
+        <text font-size="16" x="414.85385" y="-3.8323684" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_493741157311737">
+            MaisDemocracia
+        </text>
+        <text font-size="50" x="241.1009" y="776.5393" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_434209169986959">
+            Grupo Tortura Nunca Mais/RJ
+        </text>
+        <text font-size="16" x="204.44621" y="955.7736" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_161777800526671">
+            Campanha pela Memória e pela Verdade
+        </text>
+        <text font-size="16" x="657.67096" y="782.7279" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_129813430399343">
+            Contra Hidrelétrica de Belo Monte
+        </text>
+        <text font-size="16" x="-78.41439" y="799.69055" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_100579166680171">
+            Brasil sem Homofobia
+        </text>
+        <text font-size="59" x="-741.24963" y="52.363026" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_499478633455382">
+            Fórum Mundial dos Direitos Humanos - FMDH
+        </text>
+        <text font-size="16" x="-640.0539" y="325.8992" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_606403632718211">
+            TEIA Nacional
+        </text>
+        <text font-size="16" x="-507.3536" y="431.09" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_610240622388031">
+            Comissão Especial sobre Mortos e Desaparecidos Políticos
+        </text>
+        <text font-size="16" x="-1008.8496" y="-10.403113" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_109802229194741">
+            Parrhesia RADIO WEB
+        </text>
+        <text font-size="16" x="-1041.8912" y="-53.54211" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_309064015824333">
+            Instituto Parrhesia Erga Omnes
+        </text>
+        <text font-size="16" x="-1059.3239" y="-22.543549" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1435627036666688">
+            DH Forum Social
+        </text>
+        <text font-size="18" x="-198.79538" y="465.9685" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_368392189842603">
+            Fórum das Juventudes da Grande BH
+        </text>
+        <text font-size="41" x="-655.2447" y="-533.37933" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_157965634225679">
+            Nations Unies
+        </text>
+        <text font-size="16" x="-610.9223" y="250.37074" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_385269074933666">
+            Oficina para Inclusão Digital e Participação Social
+        </text>
+        <text font-size="17" x="-950.92535" y="-441.18185" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_129079373808521">
+            UNICEF Guatemala
+        </text>
+        <text font-size="16" x="-1047.5234" y="24.280958" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_254466947923660">
+            CRP 16
+        </text>
+        <text font-size="23" x="36.69066" y="678.5799" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_676639622351451">
+            Coletivo Negrada
+        </text>
+        <text font-size="16" x="-401.72745" y="-219.33873" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_262037087270050">
+            Instituto Migrações e Direitos Humanos - IMDH
+        </text>
+        <text font-size="16" x="-534.9383" y="-143.54242" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_136532843088675">
+            Fnpeti
+        </text>
+        <text font-size="16" x="-957.4892" y="256.98694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_367872730021153">
+            Federação Down
+        </text>
+        <text font-size="16" x="-580.293" y="273.4188" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_199634693494749">
+            Conselho Curador da EBC
+        </text>
+        <text font-size="16" x="-562.05237" y="-172.14725" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_10150097166840543">
+            Comunidade Bahá&apos;í do Brasil
+        </text>
+        <text font-size="16" x="-461.5095" y="-194.6207" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_231342200319055">
+            Comitê Nacional de Enfrentamento à Violência Sexual contra C. e A.
+        </text>
+        <text font-size="16" x="-865.88226" y="-21.198544" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_339218206167474">
+            Apae Belo Horizonte
+        </text>
+        <text font-size="16" x="-1048.4325" y="-74.54535" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_263711670436045">
+            Conselho Nacional da Juventude - São Tomé e Príncipe
+        </text>
+        <text font-size="20" x="-503.28543" y="-177.0104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_514083215313318">
+            IBDCRIA-ABMP
+        </text>
+        <text font-size="17" x="-467.1136" y="456.81952" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_169042736456594">
+            All Out
+        </text>
+        <text font-size="16" x="-462.50116" y="-231.14796" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_618512634857522">
+            Cenários da Sociedade Civil Organizada em 2023
+        </text>
+        <text font-size="74" x="-606.5348" y="88.43282" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_339188887615">
+            Dalai Lama
+        </text>
+        <text font-size="16" x="-311.091" y="-93.05549" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_288837181224755">
+            ONG Brasil
+        </text>
+        <text font-size="16" x="-351.35458" y="-104.18962" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_298713466905677">
+            Instituto Itiquira
+        </text>
+        <text font-size="19" x="-504.1701" y="323.32135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_286725714766033">
+            Ministério da Cultura
+        </text>
+        <text font-size="16" x="-967.4012" y="195.04279" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_255094324555273">
+            Dança Sem Fronteiras
+        </text>
+        <text font-size="18" x="-894.0271" y="-475.877" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_212081665531536">
+            Plan Américas
+        </text>
+        <text font-size="16" x="-296.50342" y="-170.51416" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_201134786694563">
+            Micro Rainbow International
+        </text>
+        <text font-size="16" x="-501.93567" y="370.6596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1384511931773902">
+            Fundação Cultural Palmares
+        </text>
+        <text font-size="64" x="-318.12775" y="-206.5968" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_468207846523343">
+            Nelson Mandela
+        </text>
+        <text font-size="16" x="-789.8147" y="-104.147484" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_249710925180824">
+            Fórum de Direitos Humanos do Cerrado
+        </text>
+        <text font-size="16" x="-120.613014" y="190.14394" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_546947201993205">
+            18 Razões
+        </text>
+        <text font-size="16" x="-327.18762" y="337.00372" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_172841996118905">
+            Pensando o Direito
+        </text>
+        <text font-size="17" x="-225.70088" y="289.563" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_320666677992219">
+            Igualdade Racial
+        </text>
+        <text font-size="17" x="-827.7313" y="129.7728" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_118724814882454">
+            CPLP - Comunidade dos Países de Língua Portuguesa
+        </text>
+        <text font-size="16" x="-1032.5581" y="31.867355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_107069012662539">
+            Universal Declaration of Human Rights
+        </text>
+        <text font-size="16" x="-1079.6678" y="5.6219916" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_473389922778385">
+            Agenda Derechos Humanos Ciudad de México
+        </text>
+        <text font-size="16" x="-1069.9979" y="57.947678" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_481966295211141">
+            Secretaría de Derechos Humanos APL
+        </text>
+        <text font-size="16" x="-560.9849" y="81.91497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_102267499835208">
+            ONU Derechos Humanos - América del Sur
+        </text>
+        <text font-size="16" x="-1017.7379" y="41.902615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_127914130612294">
+            Fundación Jóvenes por los Derechos Humanos
+        </text>
+        <text font-size="16" x="-333.46005" y="-420.13464" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_368073686557643">
+            Frayba Derechos Humanos
+        </text>
+        <text font-size="16" x="-1016.3895" y="-80.42879" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_411190537032">
+            Coalición de Derechos Humanos
+        </text>
+        <text font-size="16" x="-1063.4777" y="13.941511" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_247171802042334">
+            Fundación Ses
+        </text>
+        <text font-size="16" x="-891.2524" y="-30.425285" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_275827185770292">
+            UNIPAZ - Universidade Internacional da Paz
+        </text>
+        <text font-size="16" x="-236.5454" y="226.19002" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_156156127832371">
+            Sindicato dos Jornalistas do Distrito Federal
+        </text>
+        <text font-size="16" x="-487.02902" y="89.47607" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_892402680781611">
+            Secretaria Adjunta da Mulher, Igualdade Racial e Direitos Humanos
+        </text>
+        <text font-size="16" x="-509.87836" y="471.93222" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_614729478566622">
+            Rede Nacional Internúcleos da Luta Antimanicomial - Renila
+        </text>
+        <text font-size="16" x="-560.2917" y="555.6855" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_367515049927987">
+            Rede Afrobrasileira Sociocultural
+        </text>
+        <text font-size="16" x="-880.54205" y="-54.03417" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_361167857250055">
+            Mismecdf
+        </text>
+        <text font-size="16" x="-1048.4442" y="86.90978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_104777636384350">
+            Ilê axé oya bagan
+        </text>
+        <text font-size="16" x="-1078.9623" y="23.90901" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_247122898711794">
+            Estruturação Grupo LGBT de Brasília
+        </text>
+        <text font-size="16" x="-439.61124" y="-256.55804" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_429802800397442">
+            Defensoria Pública do DF
+        </text>
+        <text font-size="16" x="-1014.0351" y="24.284807" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_374718779205516">
+            Shalom Brasilia
+        </text>
+        <text font-size="16" x="-597.82" y="-171.49754" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_113172208715575">
+            The Human Rights Brief
+        </text>
+        <text font-size="27" x="-566.269" y="-389.0073" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_34367960914">
+            Universal Declaration of Human Rights
+        </text>
+        <text font-size="16" x="-383.14026" y="-545.77637" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_202872456466265">
+            Oidhaco
+        </text>
+        <text font-size="17" x="-413.52866" y="-495.4225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_91187778160">
+            Ligue des droits de l&apos;Homme
+        </text>
+        <text font-size="16" x="-597.93866" y="-471.41702" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_129826463760101">
+            France terre d&apos;asile
+        </text>
+        <text font-size="16" x="-579.57245" y="-442.712" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_176663393102">
+            La Cimade
+        </text>
+        <text font-size="16" x="-366.94687" y="-446.13046" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_75884689790">
+            Colectivo de Abogados
+        </text>
+        <text font-size="16" x="-760.3685" y="-253.43875" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_1082836978406151">
+            OCNFeminicidio México
+        </text>
+        <text font-size="16" x="-387.62567" y="-277.82086" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_145539447942">
+            Comisión Mexicana de Defensa y Promoción de los Derechos Humanos
+        </text>
+        <text font-size="17" x="-306.241" y="-436.80182" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_35318453394">
+            FIDH - International Federation for Human Rights
+        </text>
+        <text font-size="19" x="-428.1943" y="-397.14734" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_9025047571">
+            Amnesty International France
+        </text>
+        <text font-size="28" x="-538.4572" y="-521.1192" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_130443023668888">
+            Institut international des droits de l&apos;Homme et de la paix -
+            2idhp
+        </text>
+        <text font-size="16" x="-931.8892" y="-340.54373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_500468306706928">
+            Post-Conflict, Ex Combatants and Development
+        </text>
+        <text font-size="16" x="-771.53986" y="-167.69466" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_118509421640673">
+            Idoso na rede
+        </text>
+        <text font-size="46" x="-615.38477" y="-524.24646" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_7258206754">
+            Jeune Afrique
+        </text>
+        <text font-size="16" x="-774.10913" y="-538.61194" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_175358525809685">
+            Africa Regional Services
+        </text>
+        <text font-size="16" x="-723.3462" y="-498.41364" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_328334673854536">
+            Réseau des journalistes pour les Droits de l&apos;homme
+        </text>
+        <text font-size="16" x="-1074.1742" y="-29.605602" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_207165142635644">
+            CSA - Confederación Sindical de Trabajadores/as de las Américas
+        </text>
+        <text font-size="18" x="-386.7585" y="390.48615" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_126256360759057">
+            Corte Interamericana de Derechos Humanos
+        </text>
+        <text font-size="16" x="-825.76166" y="-370.19977" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_260011680765888">
+            Institut International des Droits de l&apos;Homme - Fondation René
+            Cassin
+        </text>
+        <text font-size="39" x="18.270979" y="159.80205" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_333367720015251">
+            Repórter Brasil
+        </text>
+        <text font-size="39" x="27.619034" y="280.59198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_335237883171442">
+            Leonardo Sakamoto
+        </text>
+        <text font-size="16" x="-1031.2511" y="-68.759834" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_218878304836356">
+            UESB FM Oficial
+        </text>
+        <text font-size="16" x="-613.2416" y="172.04677" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_512083508814747">
+            Revista densidades
+        </text>
+        <text font-size="16" x="-587.1089" y="384.71667" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_275846469142934">
+            Instituto de Políticas Públicas en Derechos Humanos del Mercosur
+        </text>
+        <text font-size="16" x="-894.90125" y="264.06784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_553255981385486">
+            REAF MERCOSUR
+        </text>
+        <text font-size="16" x="-863.1965" y="270.25388" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_141780276163274">
+            Mercociudades
+        </text>
+        <text font-size="17" x="-730.5383" y="205.49658" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_206871509410716">
+            Clacso - Consejo Latinoamericano de Ciencias Sociales
+        </text>
+        <text font-size="16" x="-523.7166" y="28.344593" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_219703644786662">
+            União Planetária
+        </text>
+        <text font-size="16" x="-107.559525" y="-243.7526" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_336022646462023">
+            Defensoria Pública Geral do Estado do Ceará
+        </text>
+        <text font-size="26" x="263.44543" y="403.9763" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_245441565556357">
+            Quilombo Xis - Ação Cultural Comunitária
+        </text>
+        <text font-size="16" x="8.3477" y="215.40836" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_413523465327934">
+            Grupo Tortura Nunca Mais- BA
+        </text>
+        <text font-size="16" x="-1052.8843" y="-41.58258" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_182902045094166">
+            Defensoria Pública do Estado da Bahia
+        </text>
+        <text font-size="22" x="-68.73155" y="342.70596" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_333892703385333">
+            Centro de Cultura Luiz Freire
+        </text>
+        <text font-size="16" x="-588.57416" y="224.05772" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_561286937260537">
+            Mostra Cinema e Direitos Humanos no Hemisfério Sul
+        </text>
+        <text font-size="16" x="-623.2148" y="295.7527" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_342348012524217">
+            Rede HumanizaSUS
+        </text>
+        <text font-size="16" x="-547.2622" y="-227.54771" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_190763340983876">
+            ECPAT Brasil
+        </text>
+        <text font-size="16" x="-1077.9299" y="-12.300827" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_265051723519077">
+            Rebea - Rede Brasileira de Educação Ambiental
+        </text>
+        <text font-size="19" x="-244.27806" y="699.6428" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_276897399061448">
+            Memória,Verdade e Justiça
+        </text>
+        <text font-size="16" x="-857.48145" y="307.13318" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_533720863342900">
+            ONCB - Organização Nacional de Cegos do Brasil
+        </text>
+        <text font-size="16" x="-1058.9763" y="-61.275673" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_406973376046516">
+            Brahma Kumaris Portugal
+        </text>
+        <text font-size="16" x="-1033.0834" y="-86.186966" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_270847772954331">
+            Brahma Kumaris Brasil
+        </text>
+        <text font-size="16" x="-173.46596" y="70.148865" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_244742255647050">
+            MNDH - Movimento Nacional de Direitos Humanos
+        </text>
+        <text font-size="23" x="-517.4002" y="148.58708" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_133104230098041">
+            Ministério do Trabalho
+        </text>
+        <text font-size="16" x="-1032.0143" y="82.25251" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_369184586457459">
+            Editora Fundação Perseu Abramo
+        </text>
+        <text font-size="16" x="-442.60995" y="475.22324" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_399744306752147">
+            Fundação Perseu Abramo
+        </text>
+        <text font-size="17" x="-589.8184" y="453.34598" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_113994525317136">
+            Funarte
+        </text>
+        <text font-size="17" x="-555.1627" y="306.7626" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_224902524211463">
+            FAAP - Fundação Armando Alvares Penteado
+        </text>
+        <text font-size="16" x="-7.7242846" y="827.5373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_454788251285142">
+            Brigadas Populares
+        </text>
+        <text font-size="16" x="-214.2604" y="846.3316" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_381578281968363">
+            Frente de Mulheres das Brigadas Populares
+        </text>
+        <text font-size="16" x="-50.744274" y="837.24493" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_200502403451749">
+            Frente pela Reforma Urbana - Brigadas Populares
+        </text>
+        <text font-size="16" x="-239.5998" y="776.69165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_157049567824523">
+            Frente de Juventude - Brigadas Populares
+        </text>
+        <text font-size="16" x="-1231.9843" y="82.288574" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_770434506373687">
+            Flacso Ecuador
+        </text>
+        <text font-size="24" x="-277.71375" y="327.03235" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_262699747205943">
+            Ministério da Justiça
+        </text>
+        <text font-size="16" x="-608.1398" y="-6.2485533" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_213697415432498">
+            Juventud con Voz
+        </text>
+        <text font-size="16" x="-853.0388" y="-382.8495" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_275961089120862">
+            PNUD El Salvador
+        </text>
+        <text font-size="16" x="-788.33545" y="-364.5" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_106155809459287">
+            PNUD México
+        </text>
+        <text font-size="16" x="-309.3591" y="418.27567" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_395445667176481">
+            Para Expressar a Liberdade
+        </text>
+        <text font-size="17" x="-699.4546" y="-99.84554" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_192021200836317">
+            APAE DE SÃO PAULO
+        </text>
+        <text font-size="16" x="-823.47833" y="259.56696" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_300340080021170">
+            Centro de Referência em Direitos Humanos Mãos Dadas - CRDH MD
+        </text>
+        <text font-size="16" x="143.66125" y="217.99591" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_216536778472838">
+            Gaspar Garcia
+        </text>
+        <text font-size="16" x="-171.12888" y="772.3043" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_455038847871127">
+            Comitê Paulista Pela Memória, Verdade e Justiça
+        </text>
+        <text font-size="16" x="-1046.3984" y="6.586653" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_147666208750169">
+            COOHABRAS_Oficial
+        </text>
+        <text font-size="16" x="-1043.8727" y="-10.314355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_363140553718136">
+            Epoch Times Português
+        </text>
+        <text font-size="16" x="-1031.9221" y="66.290215" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_196936230481952">
+            Instituto Macuco Jequitibá
+        </text>
+        <text font-size="16" x="-1022.6915" y="-53.95031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_321004117996888">
+            Instituto Mãe Terra
+        </text>
+        <text font-size="16" x="-634.9556" y="-83.49499" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_112732465554636">
+            Laboratório de Análise e Prevenção da Violência (Laprev)
+        </text>
+        <text font-size="16" x="-898.1491" y="163.28328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_191038584254431">
+            Mais Diferenças
+        </text>
+        <text font-size="16" x="-1007.3688" y="-44.35582" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_167469923429126">
+            SAJU Cárcere - FDUSP
+        </text>
+        <text font-size="27" x="-423.176" y="97.70692" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_204106033004448">
+            Programa das Nações Unidas para o Desenvolvimento - PNUD Brasil
+        </text>
+        <text font-size="16" x="-470.3326" y="-405.85733" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_222268331123427">
+            International Campaign to Abolish Nuclear Weapons (ICAN)
+        </text>
+        <text font-size="23" x="343.4793" y="-22.932564" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_120476701373768">
+            Centro de Trabalho Indigenista
+        </text>
+        <text font-size="16" x="-223.49776" y="56.59342" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_196153577213989">
+            Funai-Fundação Nacional do Índio
+        </text>
+        <text font-size="16" x="-1248.4503" y="99.70654" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_189085545351">
+            FLACSO - Guatemala
+        </text>
+        <text font-size="16" x="-1038.0336" y="46.861355" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_491435664215653">
+            FlacsoCine
+        </text>
+        <text font-size="16" x="-1149.1124" y="130.63016" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_129465603734773">
+            FLACSO Argentina (sitio oficial)
+        </text>
+        <text font-size="16" x="-1024.9829" y="-21.591135" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_207379389285168">
+            FLACSO
+        </text>
+        <text font-size="16" x="-1019.00854" y="57.517323" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_471880492888331">
+            Flacso Secretaría General
+        </text>
+        <text font-size="16" x="-930.463" y="-74.31703" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_351435264883879">
+            Flacso-México Ciencias Sociales
+        </text>
+        <text font-size="16" x="-1027.9425" y="-38.690758" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_670888326298244">
+            Abrawicca
+        </text>
+        <text font-size="16" x="277.25458" y="64.637665" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_555442681188685">
+            Articulação dos Povos Indígenas do Brasil - Apib
+        </text>
+        <text font-size="16" x="-918.9111" y="-238.85619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_172956232845181">
+            Aldeias Infantis SOS Brasil - Santa Maria/RS
+        </text>
+        <text font-size="16" x="-1054.8381" y="49.722214" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_291283844272004">
+            Agência Brasileira de Cooperação
+        </text>
+        <text font-size="16" x="134.41048" y="74.19219" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_169809863066640">
+            Advogados Sem Fronteiras
+        </text>
+        <text font-size="22" x="-829.2961" y="473.5749" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_390572200998429">
+            LBL Bahia / Liga Brasileira De Lésbicas Ba
+        </text>
+        <text font-size="16" x="-644.1769" y="459.77902" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_333726829972168">
+            Liga Brasileira de Lésbicas/PE
+        </text>
+        <text font-size="16" x="-965.36584" y="325.92694" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_226438900717668">
+            Mulheres Lésbicas do Brasil
+        </text>
+        <text font-size="22" x="-722.1225" y="454.9619" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_250992618279822">
+            LIGA BRASILEIRA DE LÉSBICAS - RS
+        </text>
+        <text font-size="16" x="-7.8441176" y="116.40031" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_119066914912948">
+            Rede Feminista de Saúde
+        </text>
+        <text font-size="16" x="-388.1401" y="132.3888" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_184155961679954">
+            Coletivo Feminino Plural
+        </text>
+        <text font-size="16" x="-426.17838" y="615.87524" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_367673320020351">
+            Universidade das Culturas
+        </text>
+        <text font-size="22" x="-119.66405" y="591.4497" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_146244058767331">
+            Fora do Eixo
+        </text>
+        <text font-size="16" x="-553.40216" y="371.63794" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_226157707440733">
+            CNTE
+        </text>
+        <text font-size="16" x="-227.8948" y="539.3076" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_165225137240956">
+            ComCausa
+        </text>
+        <text font-size="16" x="-481.83307" y="270.57288" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_121539697935720">
+            Escola de Gente - Comunicação em Inclusão
+        </text>
+        <text font-size="17" x="-318.3381" y="1.125534" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_224777780881144">
+            Visão Mundial
+        </text>
+        <text font-size="17" x="-524.90735" y="192.68793" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_190324400988587">
+            UNESCO na rede
+        </text>
+        <text font-size="16" x="-270.17502" y="286.98898" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_296064950493311">
+            MNDH Minas
+        </text>
+        <text font-size="54" x="-102.065" y="537.63525" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_163566147024734">
+            Jean Wyllys
+        </text>
+        <text font-size="16" x="-360.95892" y="610.8899" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_193735150716876">
+            Mães pela Igualdade 合
+        </text>
+        <text font-size="16" x="-476.9468" y="-11.75127" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_348268245224583">
+            Fundação Xuxa Meneghel
+        </text>
+        <text font-size="17" x="-411.38608" y="-66.368286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_69488070826">
+            Fundação Abrinq
+        </text>
+        <text font-size="16" x="-1027.2692" y="-4.293624" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_158281630972189">
+            Fashion Inclusivo
+        </text>
+        <text font-size="16" x="-710.108" y="290.1756" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_154591931331240">
+            Pessoa com Deficiência
+        </text>
+        <text font-size="16" x="-681.4634" y="346.6106" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_304183026385227">
+            Conselho Nacional dos Direitos da Pessoa com Deficiência
+        </text>
+        <text font-size="16" x="-425.59802" y="525.0884" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_267867576645348">
+            Conselho Nacional de Juventude
+        </text>
+        <text font-size="16" x="-536.07794" y="438.58084" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_180508815470191">
+            Conselho Nacional de Combate à Discriminação LGBT
+        </text>
+        <text font-size="19" x="-184.27016" y="405.52963" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_222622707758668">
+            Conselho Federal da OAB
+        </text>
+        <text font-size="16" x="-117.82134" y="312.41565" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_102286936542159">
+            Comissão de Direitos Humanos e Minorias
+        </text>
+        <text font-size="17" x="-324.51596" y="467.21906" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_172582159505249">
+            EBC na Rede
+        </text>
+        <text font-size="26" x="-122.87125" y="-85.97054" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_273819959326960">
+            Cáritas Brasileira
+        </text>
+        <text font-size="19" x="-229.73572" y="374.44458" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_108147365877214">
+            Canal Futura
+        </text>
+        <text font-size="16" x="-369.98102" y="-329.33398" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_132569026845620">
+            Defensoria Pública do Estado do Maranhão
+        </text>
+        <text font-size="16" x="-190.16269" y="569.45154" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_208266429277972">
+            Abap - Associação Brasileira De Anistiados Políticos
+        </text>
+        <text font-size="16" x="-1011.81854" y="6.8637743" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_131807420319801">
+            Mata De São João-Ba
+        </text>
+        <text font-size="16" x="-435.83426" y="-284.04373" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_192409087544791">
+            Associação dos Defensores Públicos do Distrito Federal
+        </text>
+        <text font-size="16" x="-98.42962" y="-130.87384" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_311753528924165">
+            ANADEP - Associação Nacional dos Defensores Públicos
+        </text>
+        <text font-size="16" x="-1048.4645" y="65.45065" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_399873003371639">
+            Vila Brasilândia SP
+        </text>
+        <text font-size="16" x="-419.93933" y="586.5978" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_111062462257090">
+            Parada do Orgulho LGBT de São Paulo - APOGLBT
+        </text>
+        <text font-size="16" x="-966.9554" y="19.08799" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_129538933915349">
+            Abrasme - Associação Brasileira de Saúde Mental
+        </text>
+        <text font-size="16" x="-1009.0334" y="-63.132587" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_115122701945674">
+            Abraça - Associação Brasileira para Ação por Direitos da Pessoa com
+            Autismo
+        </text>
+        <text font-size="16" x="-1029.9178" y="13.914198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_486316908059576">
+            ABL - Articulação Brasileira de Lésbicas
+        </text>
+        <text font-size="16" x="-588.57007" y="-58.445557" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_162436040461714">
+            Por uma infância sem racismo
+        </text>
+        <text font-size="66" x="-316.3183" y="163.43503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_111416188942880">
+            ONU Brasil
+        </text>
+        <text font-size="17" x="-772.5312" y="-411.0225" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_59324455950">
+            UNICEF Sverige
+        </text>
+        <text font-size="16" x="-934.00165" y="-404.9165" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_447005075346067">
+            Creciendo Juntos Panamá
+        </text>
+        <text font-size="17" x="-757.3252" y="-437.74402" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_183150725067549">
+            UNICEF Sri Lanka
+        </text>
+        <text font-size="26" x="-742.99255" y="-381.7913" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_246339298822772">
+            UNICEF Egypt يونيسف مصر
+        </text>
+        <text font-size="20" x="-832.81744" y="-477.2779" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_392679157437520">
+            Unicef Panama
+        </text>
+        <text font-size="17" x="-837.4987" y="-432.81396" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_293928193989">
+            UNICEF México
+        </text>
+        <text font-size="19" x="-770.5132" y="-310.98477" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_250295802449">
+            UNICEF Argentina
+        </text>
+        <text font-size="16" x="-617.5968" y="-147.83286" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_507727375958653">
+            IV Global Conference on Child Labour
+        </text>
+        <text font-size="16" x="-627.27765" y="27.509312" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_283733751723188">
+            Centro de Informação das Nações Unidas para o Brasil
+        </text>
+        <text font-size="67" x="-617.0547" y="-309.66953" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_68793499001">
+            UNICEF
+        </text>
+        <text font-size="18" x="-503.80435" y="-103.69431" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_128850220504786">
+            UNICEF Brasil
+        </text>
+        <text font-size="16" x="-1076.2484" y="40.963203" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_106049232760208">
+            UNICEF
+        </text>
+        <text font-size="16" x="-1044.7151" y="-298.69717" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_108493129181830">
+            FAO
+        </text>
+        <text font-size="16" x="-383.54886" y="524.2328" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_109185402433269">
+            Nelson Mandela
+        </text>
+        <text font-size="16" x="-1061.2065" y="34.11371" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_108417649182712">
+            Organização das Nações Unidas para a Educação, a Ciência e a
+            Cultura
+        </text>
+        <text font-size="16" x="-670.45984" y="235.61287" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_468468633228507">
+            Centro de Referência em Direitos Humanos - Nacional
+        </text>
+        <text font-size="16" x="-1062.077" y="-3.4952965" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_403973529673355">
+            Mediação de Conflito: do Diálogo à Cidadania
+        </text>
+        <text font-size="16" x="-1008.1458" y="-27.77207" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_504648712946245">
+            Fórum Carioca de Direitos Humanos
+        </text>
+        <text font-size="16" x="-425.11728" y="414.66104" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_120381061404424">
+            Secretaria Nacional de Juventude - SNJ
+        </text>
+        <text font-size="16" x="-349.64" y="58.48198" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_289411781095109">
+            SPMulheres
+        </text>
+        <text font-size="16" x="-1068.5876" y="-46.337997" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_319324161426207">
+            REGA Brasil - Rede de Grupos de Agroecologia do Brasil
+        </text>
+        <text font-size="16" x="-406.2539" y="-114.7219" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_362035083898961">
+            Janela Periférica
+        </text>
+        <text font-size="17" x="-265.8476" y="215.98503" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_294461477294477">
+            Infância Livre de Consumismo
+        </text>
+        <text font-size="16" x="-449.5566" y="182.35643" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_244130065610521">
+            Oficina de Imagens
+        </text>
+        <text font-size="16" x="-433.23843" y="30.28784" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_212409802106965">
+            ANDI - Comunicação e Direitos
+        </text>
+        <text font-size="16" x="-1062.4032" y="75.23692" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_398773526894638">
+            Aldeias Infantis SOS Brasil - Campinas
+        </text>
+        <text font-size="16" x="-846.4203" y="-188.98502" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_456301687754775">
+            Aldeias Infantis SOS Brasil / Bahia
+        </text>
+        <text font-size="16" x="-641.0639" y="-203.50809" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_214665511883192">
+            Aldeias Infantis SOS Brasil
+        </text>
+        <text font-size="16" x="-1042.1481" y="-28.909767" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_173926919458138">
+            Direitos Humanos
+        </text>
+        <text font-size="40" x="-349.61282" y="273.2894" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_165500080198037">
+            Direitos Humanos Brasil
+        </text>
+        <text font-size="36" x="-38.430645" y="645.9434" fill="#000000"
+              style="text-anchor: middle; dominant-baseline: central;"
+              font-family="Gadugi" class="id_41974584248">
+            Leonardo Boff
+        </text>
+    </g>
+</svg>
